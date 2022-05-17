@@ -1,0 +1,7 @@
+project: substrate
+target: reduce
+
+# image: ghcr.io/nottirb/substrate:latest
+
+cmds:
+    - cmd: /reduce

@@ -1,0 +1,7 @@
+project: substrate
+target: phragmms_balancing
+
+# image: ghcr.io/nottirb/substrate:latest
+
+cmds:
+    - cmd: /phragmms_balancing

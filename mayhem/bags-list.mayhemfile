@@ -1,0 +1,7 @@
+project: substrate
+target: bags-list
+
+# image: ghcr.io/nottirb/substrate:latest
+
+cmds:
+    - cmd: /bags-list

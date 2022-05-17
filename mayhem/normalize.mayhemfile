@@ -1,0 +1,7 @@
+project: substrate
+target: normalize
+
+# image: ghcr.io/nottirb/substrate:latest
+
+cmds:
+    - cmd: /normalize

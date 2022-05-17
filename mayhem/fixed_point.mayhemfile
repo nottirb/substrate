@@ -1,0 +1,7 @@
+project: substrate
+target: fixed_point
+
+# image: ghcr.io/nottirb/substrate:latest
+
+cmds:
+    - cmd: /fixed_point
